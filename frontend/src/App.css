@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.App{
+    min-height: 100vh;
+    min-width:flex ;
+    background-image:url('../pop-art-style-speech-bubbles-yellow-backdrop.jpg') ;
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    opacity: 0.9; /* Adjust opacity as needed */
+     z-index: -1; 
+    color: black;
+}
